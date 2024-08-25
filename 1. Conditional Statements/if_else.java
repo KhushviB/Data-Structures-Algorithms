@@ -9,6 +9,5 @@ public class if_else {
         } else {
             System.out.println("You are not an Adult");
         }
-        System.out.println("Hello");
     }
 }
