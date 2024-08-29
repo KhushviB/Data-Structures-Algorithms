@@ -1,7 +1,7 @@
 import java.util.*;
 public class prime {
     public static void main(String args[]){
-        System.out.println(check_prime(15));
+        System.out.println(check_prime(3));
     }
     public static boolean check_prime(int n){
         //corner cases

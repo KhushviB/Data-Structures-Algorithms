@@ -1,7 +1,7 @@
 import java.util.*;
 public class prime_op {
     public static void main(String args[]){
-        System.out.println(check_prime(25));
+        System.out.println(check_prime(23));
     }
     public static boolean check_prime(int n){
         if(n==2){
