@@ -17,7 +17,8 @@ public class print_subarrays {
                     System.out.print(num[k] + " ");
                 }
                 System.out.print(", ");
-            }System.out.println("");
+            }
+            System.out.println("");
         }
     }
 }
